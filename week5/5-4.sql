@@ -1,3 +1,5 @@
+-- How many people have spent more than €100 in total renting films?
+
 SELECT COUNT(*)
 FROM (
     SELECT customer_id
